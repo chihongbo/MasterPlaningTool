@@ -1,0 +1,5 @@
+facility_id,capacity,busbay,facility_alias,facility_type,facility_cost,ft_long,ft_lat
+2-Laredo,281,20,A,1,1000,-84.2673429,33.78335509
+3-Perry,227,19,B,1,1000,-84.4415687,33.79003609
+6-Hamilton,158,16,C,1,1000,-84.38431624,33.66353957
+8-Kmart,200,20,D,2,1000,-84.38331745,33.6122586

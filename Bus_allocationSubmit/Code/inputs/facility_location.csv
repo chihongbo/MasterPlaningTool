@@ -1,0 +1,5 @@
+facility_id,capacity,ft_alias,ft_type,ft_cost,fleet_CNG,fleet_Diesel,ft_long,ft_lat
+2-Laredo,281,A,1,0,4,221,-84.2673429,33.78335509
+3-Perry,227,B,1,0,11,170,-84.4415687,33.79003609
+6-Hamilton,158,C,1,0,0,148,-84.38431624,33.66353957
+8-Kmart,200,D,2,1000,0,0,-84.38331745,33.6122586
