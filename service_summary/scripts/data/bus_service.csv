@@ -1,0 +1,109 @@
+Num,Route Name,Peak Vehicles,Revenue Miles,Passengers,Max Bus,Diff,Div
+1,Marietta Blvd/Joseph E Lowery,3,556.99,891,6,3,B
+2,Ponce de Leon Avenue / Druid H,2,387.1,1028,5,3,A
+3,Martin Luther King Jr Dr/Aubur,3,520.49,1189,3,0,B
+4,Moreland Avenue,2,506.69,797,2,0,A
+5,Piedmont Road / Sandy Springs,9,1555.4,3822,10,1,B
+6,Clifton Road / Emory,5,707,1875,6,1,A
+8,North Druid Hills Road,3,532.46,820,3,0,A
+9,Boulevard / Tilson Road,4,847,898,4,0,A
+12,Howell Mill Road / Cumberland,8,1109.41,1891,8,0,B
+14,14th Street / Blandtown,3,470.43,696,7,4,B
+15,Candler Road,8,1616.1,3564,8,0,A
+19,Clairmont Road,4,580.59,1134,4,0,A
+21,Memorial Drive,8,869.3,2329,7,-1,A
+24,McAfee / Hosea Williams,3,668.01,695,3,0,A
+25,Peachtree Industrial Boulevard,2,300,342,3,1,A
+26,Marietta Street / Perry Boulev,4,824.93,1276,4,0,B
+27,Cheshire Bridge Road,3,420,832,4,1,B
+30,LaVista Road,3,448.5,785,5,2,A
+32,Bouldercrest,4,819.2,1147,4,0,A
+34,2nd Ave/Gresham Rd/Clifton Spg,3,515.71,870,6,3,A
+36,N Decatur Road / Virginia High,4,693.4,1027,4,0,A
+37,Defoors Ferry Road,3,470.75,840,0,-3,B
+39,Buford Highway,7,1305.99,5819,7,0,A
+40,Peachtree Street / Downtown,3,382.56,1097,3,0,B
+42,Pryor Road,3,733.13,1394,3,0,C
+47,I-85 Access Road / Briarwood R,2,460.73,874,2,0,A
+49,McDonough Boulevard,6,1064.13,2324,6,0,C
+50,Donald Lee Hollowell Parkway,3,637.02,1950,3,0,B
+51,Joseph E Boone Boulevard,4,715,2394,8,4,B
+55,Jonesboro Road,7,1273.08,2406,7,0,C
+58,West Lake Avenue / Hollywood R,3,704.45,1311,3,0,B
+60,Hightower Road,2,527.42,1439,4,2,B
+66,Lynhurst Drive / Princeton Lak,4,1073.33,1418,4,0,B
+68,Benjamin E Mays Drive,5,891.9,1611,5,0,B
+71,Cascade Road,8,1498.91,3188,8,0,B
+73,Fulton Industrial,8,1791.8,4685,9,1,B
+74,Flat Shoals,3,550.8,1322,3,0,A
+75,Lawrenceville Highway,5,895.03,1420,5,0,A
+78,Cleveland Avenue,5,973.86,3694,6,1,C
+79,Sylvan Hills,2,394.73,624,2,0,C
+81,Venetian Hills / Delowe Drive,4,934.78,1343,6,2,C
+82,Camp Creek / South Fulton Park,6,1356.11,2015,6,0,C
+83,Campbellton Road,6,1320.56,4590,7,1,C
+84,Washington Rd/Camp Crk Marketp,4,744.67,1855,4,0,C
+85,Roswell / Mansell Road,4,713.91,1169,8,4,B
+86,Fairington Road,6,1065.45,2305,12,6,A
+87,Roswell Road / Morgan Falls,7,1143.62,2171,8,1,B
+89,Old National Highway / Union C,8,1756.52,3571,7,-1,C
+93,Headland Drive / Main Street,3,638.54,1257,3,0,C
+94,Northside Drive,3,483.26,812,0,-3,B
+95,Metropolitan Parkway,5,896.35,2864,5,0,C
+102,North Avenue / Little Five Poi,3,335.7,1245,0,-3,A
+103,Peeler Road / N Shallowford Ro,2,433.89,605,4,2,A
+104,Winters Chapel Road,1,158.4,465,0,-1,A
+107,Glenwood,7,1334.8,2331,7,0,A
+110,Peachtree Road / Buckhead,8,936.26,3638,8,0,B
+111,Snapfinger Woods,6,1257.82,1664,0,-6,A
+114,Columbia Drive,3,580.05,1446,0,-3,A
+115,Covington Highway,6,1304.3,2466,13,7,A
+116,Redan Road,6,1134.73,2027,0,-6,A
+117,Rockbridge Road / Panola Road,10,1728.96,2799,9,-1,A
+119,Hairston Road / Stone Mtn Vill,3,660.62,1301,6,3,A
+120,East Ponce De Leon Avenue,8,1259.86,2242,6,-2,A
+121,Memorial Drive / N Hairston Ro,9,1405.88,4036,7,-2,A
+123,Church Street / North DeKalb M,2,337.43,505,2,0,A
+124,Pleasantdale Road,3,653.24,1665,3,0,A
+125,Clarkston / Northlake,4,827.92,2150,0,-4,A
+126,Chamblee-Tucker Road,2,420.4,746,4,2,A
+132,Tilly Mill Road,3,363.36,698,3,0,A
+133,Shallowford Road,2,285.6,346,0,-2,A
+140,North Point Parkway,3,826.49,908,3,0,B
+141,Haynes Bridge Road / Milton,4,1099.75,1165,4,0,B
+142,East Holcomb Bridge Road,2,270.99,131,2,0,A
+143,Windward Park & Ride,6,1134.18,1611,9,3,B
+148,Mount Vernon Highway,1,124.32,108,1,0,B
+150,Perimeter Center / Dunwoody Vi,4,233.12,432,2,-2,B
+153,James Jackson Parkway,2,354.05,755,0,-2,B
+155,Pittsburgh,2,527.04,916,0,-2,C
+162,Myrtle Drive / Alison Court,2,333.65,1283,2,0,C
+165,Fairburn Road,4,752.5,1987,0,-4,B
+172,Sylvan Road / Virginia Avenue,2,488.84,1044,2,0,C
+178,Empire Blvd / Southside Ind Pa,3,650.97,1281,3,0,C
+180,Roosevelt Highway,4,1369.85,1743,4,0,C
+181,Washington Road / Fairburn,7,1404.62,2461,7,0,C
+183,Barge Road P&R / Lakewood,2,576.01,839,2,0,C
+185,Alpharetta / Old Milton Parkwa,5,997.38,1340,0,-5,B
+186,Rainbow Drive / South DeKalb,6,1303.44,2772,7,1,A
+189,Flat Shoals Road / Scofield Ro,5,1218.67,2019,5,0,C
+191,Riverdale / ATL Intl Terminal,4,1448.26,1513,6,2,C
+192,Old Dixie / Tara Boulevard,3,707.4,1339,3,0,C
+193,Morrow / Jonesboro,5,1502.86,2281,6,1,C
+194,Conley Road / Mt Zion,3,836.2,1039,4,1,C
+195,Forest Parkway,2,643.58,940,2,0,C
+196,Upper Riverdale / Southlake,8,1475.36,3774,8,0,A
+221,Memorial Drive Limited,3,281.16,515,3,0,A
+295,Metropolitan Campus Express,2,170.2,270,2,0,C
+809,Monroe Drive / Boulevard,4,539.2,894,4,0,A
+813,Atlanta Student Movement Boule,3,429.6,875,5,2,B
+816,North Highland Avenue,4,581.5,831,4,0,A
+823,Belvedere,1,211.92,150,1,0,A
+825,Johnson Ferry Road,1,128,156,1,0,B
+832,Grant Park,2,456.3,651,2,0,C
+850,Carroll Heights / Fairburn Hei,2,458.36,663,4,2,B
+853,Collier Heights,2,564.58,702,0,-2,B
+856,Baker Hills / Wilson Mill Mead,2,425.67,497,4,2,B
+865,Boulder Park Drive,2,459.58,500,0,-2,B
+867,Peyton Forest / Dixie Hills,2,525.08,710,4,2,B
+899,Old Fourth Ward,2,283.5,643,3,1,A
